@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/Github/HW07/HW07/Content/Level/TestLevel.umap",
+				"C:/Unreal/Github/HW07/HW07/Content/Blueprints/BP_Character.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Blueprints/Action/BP_Character.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Blueprints/Action/IA_Move.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Blueprints/Action/IA_Look.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/ArmorIn.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/ArmorOut.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/Body.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/Decor.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Dron_low_poly_3d_model/Dron.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Dron_low_poly_3d_model/dron_low_poly_3d_model.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Dron_low_poly_3d_model/dron_low_poly_3d_model_texture_0.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Dron_low_poly_3d_model/dron_low_poly_3d_model_texture_1.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Dron_low_poly_3d_model/dron_low_poly_3d_model_texture_2.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/Idle.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/Lights.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Blueprints/NewGamemode.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/Pose.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/somerobot.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/somerobot_PhysicsAsset.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Fab/Some_Robot/somerobot_Skeleton.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IAS_Main.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IA_Look.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IAS_Look.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IA_Main.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IA_Move.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IAS_Move.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Input/IA_Defalut.uasset",
+				"C:/Unreal/Github/HW07/HW07/Content/Blueprints/BP_Drone.uasset"
+			]
+		}
+	]
+}
