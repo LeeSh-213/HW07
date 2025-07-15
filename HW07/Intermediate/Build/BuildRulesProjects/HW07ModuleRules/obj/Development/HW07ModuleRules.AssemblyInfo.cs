@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW07ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2205d9e2f9eed0f0be7c4cc2d6a6bd1001a51256")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b0d840870e478437439a91282da00e718335d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW07ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW07ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -45,12 +45,17 @@
     <ClCompile Include="..\..\Source\HW07\Private\BasePawn.cpp">
       <Filter>Source\HW07\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\HW07\Private\DronePawn.cpp">
+      <Filter>Source\HW07\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\HW07\Public">
       <UniqueIdentifier>{DAD5EBE2-B463-38EB-8172-75B3B7AF9D05}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HW07\Public\BasePawn.h">
       <Filter>Source\HW07\Public</Filter>
     </ClCompile>
-    <None Include="cpp.hint" />
+    <ClCompile Include="..\..\Source\HW07\Public\DronePawn.h">
+      <Filter>Source\HW07\Public</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

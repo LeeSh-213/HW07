@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal\\github\\hw07\\hw07\\source\\hw07\\private\\dronepawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\github\\hw07\\hw07\\intermediate\\build\\win64\\x64\\hw07editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal\\github\\hw07\\hw07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw07\\definitions.hw07.h",
+            "c:\\unreal\\github\\hw07\\hw07\\source\\hw07\\public\\dronepawn.h",
+            "c:\\unreal\\github\\hw07\\hw07\\source\\hw07\\public\\basepawn.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\unreal\\github\\hw07\\hw07\\intermediate\\build\\win64\\unrealeditor\\inc\\hw07\\uht\\basepawn.generated.h",
+            "c:\\unreal\\github\\hw07\\hw07\\intermediate\\build\\win64\\unrealeditor\\inc\\hw07\\uht\\dronepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

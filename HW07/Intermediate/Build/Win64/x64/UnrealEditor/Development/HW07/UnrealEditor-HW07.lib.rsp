@@ -8,9 +8,11 @@
 /NODEFAULTLIB
 "C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\HW07Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\BasePawn.gen.cpp.obj"
+"C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\DronePawn.gen.cpp.obj"
 "C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\HW07.init.gen.cpp.obj"
 "C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\HW07.cpp.obj"
-"C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\BasePawn.cpp.obj"
 "C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\PerModuleInline.gen.cpp.obj"
+"C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\BasePawn.cpp.obj"
+"C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\DronePawn.cpp.obj"
 "C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\Default.rc2.res"
 /OUT:"C:\Unreal\Github\HW07\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\UnrealEditor-HW07.lib"

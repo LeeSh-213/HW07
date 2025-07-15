@@ -101,7 +101,6 @@ void ABasePawn::Tick(float DeltaTime)
 			const FVector MoveDir = Forward * MovementInput.X + Right * MovementInput.Y;
 			AddActorWorldOffset(MoveDir * MoveSpeed * DeltaTime, true);
 
-			SetActorRotation(FRotator(0.f, PC->GetControlRotation().Yaw, 0.f));
 
 		}
 	}
