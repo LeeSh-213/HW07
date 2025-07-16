@@ -68,6 +68,7 @@ void ADronePawn::Tick(float DeltaTime)
             Velocity.Z += Gravity * DeltaTime;
             Velocity.Z = FMath::Max(Velocity.Z, TerminalVelocity);
         }
+      
         else
         {
             if (Velocity.Z < 0.f)
