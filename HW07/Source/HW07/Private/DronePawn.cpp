@@ -14,9 +14,6 @@ ADronePawn::ADronePawn()
 {
     PrimaryActorTick.bCanEverTick = true;
     SpringArm->bUsePawnControlRotation = false;
-    SpringArm->bInheritPitch = false;
-    SpringArm->bInheritYaw = false;
-    SpringArm->bInheritRoll = false;
 
 }
 
