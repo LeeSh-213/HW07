@@ -7,11 +7,17 @@
 #include "GameFramework/PlayerController.h"
 #include "InputMappingContext.h"
 #include "InputAction.h"
+#include "GameFramework/SpringArmComponent.h"
 
 
 ADronePawn::ADronePawn()
 {
     PrimaryActorTick.bCanEverTick = true;
+    SpringArm->bUsePawnControlRotation = false;
+    SpringArm->bInheritPitch = false;
+    SpringArm->bInheritYaw = false;
+    SpringArm->bInheritRoll = false;
+
 }
 
 void ADronePawn::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
